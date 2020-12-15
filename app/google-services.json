@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503964334122",
+    "firebase_url": "https://death-quiz-d053a.firebaseio.com",
+    "project_id": "death-quiz-d053a",
+    "storage_bucket": "death-quiz-d053a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503964334122:android:651b24f815d0a5703a6b53",
+        "android_client_info": {
+          "package_name": "com.example.deathquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503964334122-ibbv1lgipti47tfce4726ogfjh725i2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deathquiz",
+            "certificate_hash": "91b396afe2d92cf4ffb76604441fd8eae84742fb"
+          }
+        },
+        {
+          "client_id": "503964334122-h2fpqendpl9g6g0fc8glarn8fmkffucg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3ZuKcLWIRkV49A3C8WdNBtmJORgFnFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503964334122-h2fpqendpl9g6g0fc8glarn8fmkffucg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
